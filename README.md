@@ -24,7 +24,7 @@ An end-to-end machine learning pipeline that predicts whether a loan application
 - Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
-- 
+
 ## 🔍 Pipeline / Methodology
 1. **Data Loading & Validation** — shape, info, summary statistics
 2. **Data Cleaning** — standardized column names, dropped ID-like column (`loan_id`), checked for duplicates and constant columns
